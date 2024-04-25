@@ -1,1 +1,4 @@
-# Kiran_Demo
+- 👋 Hi, I’m kiran kumar kokkiligadda
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning React-js and Azure
+- 📫 How to reach me ... kirankumark0077@gmail.com
